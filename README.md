@@ -10,7 +10,8 @@ I usually use neovim and wezterm, this combination is awesome!
 
 My awesome terminal and neovim is like this!
 
-Comming Soon...
+<img width="1648" alt="Screenshot 2024-04-14 at 18 02 49" src="https://github.com/TlexCypher/Nvim/assets/144787772/3d3707f1-6178-496b-bc9b-fc387b55dad8">
+
 
 ## Awesome plugins, awesome hack life!
 
